@@ -1,11 +1,11 @@
-cff-version: 1.2.0
+cff-version: 1.1.0
 message: "If you use this software, please cite it as below."
 authors:
 - family-names: "Naas"
   given-names: "Adam E."
   orcid: "https://orcid.org/0000-0001-9736-9020"
-title: "Choosing predictors and complexity for ecosystem distribution models: effects on performance and transferability"
-version: 0.1.0
-doi: ""
-date-released: 2024-04-04
+title: predictors_complexity_paper
+version: v1.0.0
+doi: "DOI: 10.5281/zenodo.10948619"
+date-released: 2024-04-09
 url: "https://github.com/geco-nhm/predictors_complexity_paper"
